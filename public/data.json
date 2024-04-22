@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "question": "¿Quién es el director de la Escuela de Magia y Hechicería de Hogwarts en la primera película?",
+    "answers": [
+      "Albus Dumbledore",
+      "Severus Snape",
+      "Minerva McGonagall",
+      "Rubeus Hagrid"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "¿Qué deporte juegan los estudiantes de Hogwarts en escobas voladoras?",
+    "answers": ["Quidditch", "Bludgerball", "Snitchball", "Broomrace"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "¿Qué animal doméstico tiene Hermione Granger?",
+    "answers": ["Gato", "Rata", "Buho", "Sapo"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "¿Quién es el director de la Casa Gryffindor?",
+    "answers": [
+      "Minerva McGonagall",
+      "Severus Snape",
+      "Albus Dumbledore",
+      "Horace Slughorn"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "¿Qué criatura mágica ayuda a Hagrid en su trabajo como guardián de las llaves y terrenos en Hogwarts?",
+    "answers": ["Hipogrifo", "Dragón", "Acromántula", "Elfo doméstico"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "¿Cuál es el nombre completo de Ron Weasley?",
+    "answers": [
+      "Ronald Bilius Weasley",
+      "Ronald Percival Weasley",
+      "Ronald Arthur Weasley",
+      "Ronald Gideon Weasley"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "¿Cómo se llama la planta mágica que grita cuando se arranca?",
+    "answers": ["Mandrágora", "Bubotuber", "Manzanilla", "Veritaserum"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "¿Cuál es el nombre del mago oscuro que asesinó a los padres de Harry Potter?",
+    "answers": [
+      "Voldemort",
+      "Grindelwald",
+      "Bellatrix Lestrange",
+      "Lucius Malfoy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "¿Qué clase de criatura es Dobby?",
+    "answers": ["Elfo doméstico", "Duende", "Hada", "Gnomo"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "¿Cuál es el deporte favorito de Ron Weasley?",
+    "answers": ["Quidditch", "Ajedrez mágico", "Atletismo", "Natación"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "¿Cuál es el nombre del banco controlado por goblins en el mundo mágico?",
+    "answers": [
+      "Banco Gringotts",
+      "Banco de Inglaterra",
+      "Banco de los Magos",
+      "Banco Imperial"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "¿Qué hechizo es usado para desarmar a un oponente?",
+    "answers": ["Expelliarmus", "Avada Kedavra", "Expecto Patronum", "Stupefy"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "¿Cuál es el animal doméstico de Neville Longbottom?",
+    "answers": ["Rana", "Gato", "Sapo", "Erizo"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "question": "¿Qué mago enseña a Harry a controlar su mente contra los ataques de Voldemort?",
+    "answers": [
+      "Remus Lupin",
+      "Alastor Moody",
+      "Severus Snape",
+      "Gilderoy Lockhart"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "¿Cuál es el apellido de la familia mágica que es aliada de Harry Potter?",
+    "answers": ["Weasley", "Granger", "Malfoy", "Dursley"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "¿Cuál es la criatura que vive en el Lago Negro en Hogwarts?",
+    "answers": ["El Kraken", "El monstruo del lago", "El trasgo", "La sirena"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 17,
+    "question": "¿Cuál es el nombre del barrio mágico en Londres donde los magos hacen sus compras?",
+    "answers": [
+      "Callejón Diagon",
+      "Callejón Knockturn",
+      "Callejón de los Hechizos",
+      "Callejón Mágico"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "¿Cuál es el apellido del profesor de pociones que enseña en Hogwarts?",
+    "answers": ["Snape", "Slughorn", "Sprout", "Sinistra"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "¿Qué personaje es conocido por su obsesión por las criaturas mágicas peligrosas?",
+    "answers": [
+      "Hermione Granger",
+      "Ron Weasley",
+      "Rubeus Hagrid",
+      "Luna Lovegood"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 20,
+    "question": "¿Qué criatura es guardiana de la entrada a la Sala de Menesteres en Hogwarts?",
+    "answers": [
+      "El perro de tres cabezas",
+      "El basilisco",
+      "El elfo doméstico",
+      "El fantasma de la dama gris"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "¿Cuál es el nombre del mago que inventó la Piedra Filosofal?",
+    "answers": [
+      "Albus Dumbledore",
+      "Nicolas Flamel",
+      "Gellert Grindelwald",
+      "Rowena Ravenclaw"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 22,
+    "question": "¿Qué criatura vive en el bosque prohibido de Hogwarts?",
+    "answers": ["Hippogriff", "Acromántula", "Centáuro", "Trasgo"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "question": "¿Cuál es la mascota de Draco Malfoy?",
+    "answers": ["Serpiente", "Halcon", "Murciélago", "Tejón"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "¿Quién es el guardián de las llaves y terrenos de Hogwarts?",
+    "answers": [
+      "Rubeus Hagrid",
+      "Argus Filch",
+      "Alastor Moody",
+      "Horace Slughorn"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "¿Cuál es el nombre del director de la Casa Slytherin?",
+    "answers": [
+      "Severus Snape",
+      "Horace Slughorn",
+      "Salazar Slytherin",
+      "Tom Riddle"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 26,
+    "question": "¿Qué criatura guarda la Cámara de los Secretos?",
+    "answers": [
+      "Basilisco",
+      "Aragog",
+      "El fantasma de Tom Riddle",
+      "Dragón colacuerno húngaro"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 27,
+    "question": "¿Qué mago es conocido por su habilidad para transformarse en animales?",
+    "answers": [
+      "Remus Lupin",
+      "Sirius Black",
+      "Bellatrix Lestrange",
+      "Peter Pettigrew"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 28,
+    "question": "¿Cuál es el nombre de la tienda de varitas en el Callejón Diagon?",
+    "answers": [
+      "Ollivanders",
+      "Varitas Garrick",
+      "Varitas mágicas de Winky",
+      "Varitas mágicas de Grindlewald"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 29,
+    "question": "¿Qué efecto tiene la poción Felix Felicis?",
+    "answers": [
+      "Hace invisible al bebedor",
+      "Concede buena suerte temporal",
+      "Convierte al bebedor en animal",
+      "Hace invulnerable al bebedor"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 30,
+    "question": "¿Qué asignatura enseña el profesor Snape en Hogwarts?",
+    "answers": [
+      "Defensa contra las artes oscuras",
+      "Pociones",
+      "Adivinación",
+      "Transformaciones"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 31,
+    "question": "¿Qué criatura es la mascota de Hagrid?",
+    "answers": ["Hippogriff", "Aragog", "Fawkes", "Fluffy"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 32,
+    "question": "¿Cuál es la mascota de Luna Lovegood?",
+    "answers": ["Serpiente", "Rata", "Gato", "León lunar"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 33,
+    "question": "¿Qué personaje es el director de la Casa Ravenclaw?",
+    "answers": [
+      "Minerva McGonagall",
+      "Filius Flitwick",
+      "Pomona Sprout",
+      "Sybill Trelawney"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 34,
+    "question": "¿Qué materia enseña el profesor Flitwick en Hogwarts?",
+    "answers": ["Encantamientos", "Adivinación", "Pociones", "Herbología"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 35,
+    "question": "¿Cuál es el nombre de la serpiente mascota de Voldemort?",
+    "answers": ["Nagini", "Basilisco", "Nimbus", "Salazar"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 36,
+    "question": "¿Qué hechizo conjura un escudo protector?",
+    "answers": ["Protego", "Expelliarmus", "Stupefy", "Imperio"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 37,
+    "question": "¿Cuál es el nombre del tío de Harry Potter que lo crió después de la muerte de sus padres?",
+    "answers": [
+      "Vernon Dursley",
+      "Sirius Black",
+      "Albus Dumbledore",
+      "Remus Lupin"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 38,
+    "question": "¿Qué objeto mágico permite a los magos viajar en el tiempo?",
+    "answers": [
+      "Reloj de arena",
+      "Gafas especiales",
+      "Reloj de péndulo",
+      "Giratiempo"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 39,
+    "question": "¿Qué animal es un Animagus de Sirius Black?",
+    "answers": ["Perro", "Gato", "Rata", "Búho"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 40,
+    "question": "¿Cuál es el apellido del personaje que es cazador de tesoros en la saga?",
+    "answers": ["Potter", "Granger", "Weasley", "Lovegood"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 41,
+    "question": "¿Cuál es el hechizo que cura heridas leves?",
+    "answers": ["Episkey", "Avada Kedavra", "Imperio", "Crucio"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 42,
+    "question": "¿Cuál es el nombre del director de la Casa Hufflepuff?",
+    "answers": [
+      "Pomona Sprout",
+      "Filius Flitwick",
+      "Severus Snape",
+      "Horace Slughorn"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 43,
+    "question": "¿Qué animal doméstico tiene Draco Malfoy?",
+    "answers": ["Halcon", "Búho", "Rata", "Serpiente"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 44,
+    "question": "¿Qué deporte juega Harry Potter en su primer año en Hogwarts?",
+    "answers": ["Quidditch", "Fútbol", "Ajedrez mágico", "Criquet mágico"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 45,
+    "question": "¿Cuál es el apellido del profesor de Herbología en Hogwarts?",
+    "answers": ["Sprout", "Flitwick", "Snape", "Trelawney"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 46,
+    "question": "¿Qué criatura mágica puede detectar sangre de unicornio?",
+    "answers": [
+      "El basilisco",
+      "El centauro",
+      "El trasgo",
+      "El Elfo doméstico"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 47,
+    "question": "¿Cuál es el hechizo que apaga las luces?",
+    "answers": ["Nox", "Lumos", "Expelliarmus", "Accio"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 48,
+    "question": "¿Qué animal doméstico tiene Ginny Weasley?",
+    "answers": ["Gato", "Rata", "Sapo", "Murciélago"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 49,
+    "question": "¿Cuál es el nombre de la madre de Harry Potter?",
+    "answers": [
+      "Lily Potter",
+      "Petunia Dursley",
+      "Molly Weasley",
+      "Narcisa Malfoy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 50,
+    "question": "¿Qué personaje es conocido por su afición a coleccionar cromos de ranas de chocolate?",
+    "answers": [
+      "Ron Weasley",
+      "Hermione Granger",
+      "Luna Lovegood",
+      "Neville Longbottom"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 51,
+    "question": "¿Cuál es el nombre del barman del Caldero Chorreante?",
+    "answers": ["Tom", "Albert", "Frank", "Stan"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 52,
+    "question": "¿Qué animal mágico guía a los estudiantes al carruaje que los lleva a Hogwarts?",
+    "answers": ["Hipogrifo", "El basilisco", "Thestral", "Fawkes"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 53,
+    "question": "¿Qué criatura es un guardián en la Escuela de Magia y Hechicería de Hogwarts?",
+    "answers": ["El Kraken", "El Hipogrifo", "El Trasgo", "El Fantasma"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 54,
+    "question": "¿Cuál es el nombre del profesor que enseña Transformaciones en Hogwarts?",
+    "answers": [
+      "Severus Snape",
+      "Minerva McGonagall",
+      "Filius Flitwick",
+      "Rubeus Hagrid"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 55,
+    "question": "¿Qué objeto mágico permite a los magos comunicarse a larga distancia?",
+    "answers": [
+      "Reloj de arena",
+      "Varita mágica",
+      "Espejo de doble cara",
+      "Collar de fuego"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 56,
+    "question": "¿Cuál es el nombre del profesor de Defensa contra las Artes Oscuras en el primer libro/película?",
+    "answers": [
+      "Gilderoy Lockhart",
+      "Remus Lupin",
+      "Alastor Moody",
+      "Quirinus Quirrell"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 57,
+    "question": "¿Qué personaje es conocido por su habilidad para transformar objetos en otras cosas?",
+    "answers": [
+      "Nymphadora Tonks",
+      "Kingsley Shacklebolt",
+      "Rufus Scrimgeour",
+      "Filius Flitwick"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 58,
+    "question": "¿Cuál es el apellido de la familia mágica que es aliada de Harry Potter?",
+    "answers": ["Weasley", "Malfoy", "Dumbledore", "Longbottom"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 59,
+    "question": "¿Qué materia enseña el profesor Trelawney en Hogwarts?",
+    "answers": ["Adivinación", "Herbología", "Aritmancia", "Encantamientos"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 60,
+    "question": "¿Qué criatura es la mascota de la Casa Hufflepuff?",
+    "answers": ["Tejón", "Lechuza", "Conejo", "Topo"],
+    "correctAnswer": 0
+  }
+]
