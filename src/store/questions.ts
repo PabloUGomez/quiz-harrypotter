@@ -5,6 +5,7 @@ interface State {
   questions: Question[]
   currentQuestion: number
   fetchQuestions: (limit: number) => Promise<void>
+  selectAnswer: (questionId: number, answerIndex : number) => void
 }
 
 export const useQuestions = create<State>((set, get) => {
@@ -12,22 +13,23 @@ export const useQuestions = create<State>((set, get) => {
     questions: [],
     currentQuestion: 0,
     fetchQuestions: async (limit: number) => {
-      set({
-        questions: [
-          {
-            id: 1,
-            question:
-              '¿Quién es el director de la Escuela de Magia y Hechicería de Hogwarts en la primera película?',
-            answers: [
-              'Albus Dumbledore',
-              'Severus Snape',
-              'Minerva McGonagall',
-              'Rubeus Hagrid',
-            ],
-            correctAnswer: 0,
-          },
-        ],
-      })
+      const res = await fetch(`http://localhost:5173/data.json`)
+      const json = await res.json()
+      const questions = json.sort(() => Math.random() - 0.5).slice(0, limit)
+      set({ questions })
     },
+    selectAnswer: (questionId: number, answerIndex: number) => {
+      const {questions} = get()
+      const newQuestions = structuredClone(questions)
+      const questionIndex = newQuestions.findIndex(q => q.id === questionId)
+      const questionInfo = newQuestions[questionIndex]
+      const isCorrectUserAnswer = questionInfo.correctAnswer === answerIndex
+      newQuestions[questionIndex] = {
+        ...questionInfo,
+        userSelectedAnswer: answerIndex,
+        isCorrectUserAnswer
+      }
+      set({questions: newQuestions})
+    }
   }
 })
