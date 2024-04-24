@@ -11,7 +11,7 @@ function App() {
       <Container maxWidth='sm'>
         <Stack alignItems='center' justifyContent='center'>
           <Hogwarts />
-          <Typography variant='h2' component='h1'>
+          <Typography variant='h3' component='h1'>
             Harry Potter Quiz
           </Typography>
         </Stack>
